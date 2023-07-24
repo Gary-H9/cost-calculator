@@ -1,0 +1,16 @@
+{
+    "name": "Cost Calculator",
+    "version": "1.0.0",
+    "description": "Meeting Cost Calculator",
+    "manifest_version": 3,
+    "author": "Gary Henderson",
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "Cost Calculator"
+    },
+    "chrome_url_overrides": {
+      "bookmarks": "index.html"
+    },
+    "permissions": ["activeTab"]
+  }
+  
