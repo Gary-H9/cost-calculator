@@ -2,9 +2,9 @@
 
 This repository a Cost Calculator Chrome Extension.
 
-### Local Setup
+### 🧑‍💻 Local Setup
 
-To make stylist changes you can open `index.html` in a browser and edit the code in VSCode. 
+To make stylist changes you can open `index.html` in a browser and edit the code. 
 
 To 'fully' test you can:
 
